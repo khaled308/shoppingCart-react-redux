@@ -1,0 +1,6 @@
+.navbar a{
+    font-size: 18px;
+}
+.landing img{
+    height: calc(100vh - 78px);
+}
